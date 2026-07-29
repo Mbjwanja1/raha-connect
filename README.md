@@ -95,31 +95,83 @@ Dial `*384*8024#` in the simulator.
 ---
 
 ## 📱 USSD Menu Flow
-  Welcome to Raha Connect
-  ├── 1. Verify Event
-  │ └── Enter code: DEMO2026
-  │ └── ✅ EVENT VERIFIED
-  │ Sample Concert Name
-  │ Venue: KICC
-  │ Date: [demo date]
-  │
-  ├── 2. Report Safety Issue
-  │ ├── 1. Overcrowding
-  │ ├── 2. Medical Emergency
-  │ ├── 3. Fighting/Chaos
-  │ ├── 4. Blocked Exit
-  │ └── 5. Security Concern
-  │ └── ✅ Thank you for your report!
-  │
-  ├── 3. Check Gate Status
-  │ ├── 1. Gate A: 🟢 OPEN
-  │ ├── 2. Gate B: 🟡 BUSY
-  │ └── 3. Gate C: 🔴 FULL
-  │
-  └── 4. Emergency Updates
-  └── 🚨 Safety alerts & emergency info
 
----
+```text
+                     Welcome to Raha Connect
+                           *384#
+
+1. Verify Event
+2. Report Safety Issue
+3. Check Gate Status
+4. Emergency Updates
+0. Exit
+
+──────────────────────────────────────────
+
+1. Verify Event
+
+Enter Event Code:
+DEMO2026
+
+✅ EVENT VERIFIED
+
+🎵 Sample Concert Name
+📍 Venue: KICC
+📅 Date: 29 Aug 2026
+👤 Organiser: Raha Events Ltd
+
+0. Back
+
+──────────────────────────────────────────
+
+2. Report Safety Issue
+
+Select Issue:
+
+1. Overcrowding
+2. Medical Emergency
+3. Fighting / Chaos
+4. Blocked Exit
+5. Security Concern
+
+──────────────────────────────────────────
+
+Issue Submitted Successfully ✅
+
+Thank you for helping keep everyone safe.
+Our security team has been notified.
+
+0. Back
+
+──────────────────────────────────────────
+
+3. Check Gate Status
+
+Current Gate Availability
+
+1. Gate A  🟢 OPEN
+2. Gate B  🟡 BUSY
+3. Gate C  🔴 FULL
+
+Please use Gate A for faster entry.
+
+0. Back
+
+──────────────────────────────────────────
+
+4. Emergency Updates
+
+🚨 SAFETY ALERTS
+
+• Gate C is temporarily closed.
+• Please proceed to Gate A.
+• Medical tent is beside the main stage.
+
+Stay calm and follow security instructions.
+
+0. Back
+
+```
 
 ## 📊 Organizer Dashboard
 
