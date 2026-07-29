@@ -194,6 +194,33 @@ We're connecting Kenyans to safe, enjoyable events.
 Because the only thing that should be lit at a concert... is the stage. 🎵
 
 ---
+## 🚀 Future Enhancements
+
+### Short-term
+- **SMS Alerts** - Organizers send mass emergency alerts
+- **Voice Broadcasting** - Emergency voice calls for critical incidents
+- **Multi-language Support** - Swahili + English USSD menus
+- **Promoter Dashboard** - Analytics and trust score tracking
+
+### Medium-term
+- **Airtime Rewards** - Fans earn airtime for reporting safety issues
+- **Event Check-in** - USSD-based attendance tracking
+- **Real-time Heatmaps** - Crowd density visualization
+- **Organizer Verification** - Official badges for trusted promoters
+
+### Long-term
+- **AI Safety Predictions** - Predict overcrowding before it happens
+- **Emergency Services Integration** - Direct alerts to police, fire, and ambulance
+- **Event Insurance** - Partner with insurers for verified events
+- **National Rollout** - Expand beyond Nairobi to all major Kenyan cities
+
+### Wishlist ✨
+- Celebrity Endorsements 🎤
+- Concert History & Ratings 📊
+- Voice Memo Reports 🎙️
+- Group Safety Features 👥
+  
+---  
 
 ## 🏆 Hackathon Submission
 
