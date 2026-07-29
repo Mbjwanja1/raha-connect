@@ -214,11 +214,8 @@ Because the only thing that should be lit at a concert... is the stage. 🎵
 ---
 
 ## 📸 Screenshots
-An example of the system: 
-<img width="976" height="882" alt="image" src="https://github.com/user-attachments/assets/4b751b0b-92ca-470c-ac14-73e33eea6adf" />
-<img width="980" height="898" alt="image" src="https://github.com/user-attachments/assets/3f33858d-3749-4a95-9ecd-2a591690f4b2" />
-<img width="1150" height="776" alt="image" src="https://github.com/user-attachments/assets/ba292857-6699-4af5-89fe-162676f9d2ec" />
 
+Go back up, you'll see it in the files!!
 
 ---
 
