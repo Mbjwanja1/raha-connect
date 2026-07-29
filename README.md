@@ -11,13 +11,16 @@ Kenya's live entertainment industry is in crisis. Poor planning, rogue promoters
 
 ### 🚨 Real Incidents from 2025–2026
 
-| Incident | What Happened | Source |
-|---|---|---|
-| **Demo Concert Crush** (Dec 2025, Nyayo Stadium) | A crowd crush killed a 20-year-old attendee and injured others. A witness described chaos at the entrance, with no clear crowd direction. | [Add article link] |
-| **Fake Tour Announcement** | An unauthorized Kenyan tour was announced for a major artist. The artist himself publicly warned fans it was fraudulent, sparking calls for verified event announcements. | [Add article link] |
-| **Blankets & Wine Festival** | Attendees faced long queues, overcrowded spaces, and slow service. A formal complaint was filed with the Competition Authority over misleading marketing. | [Add article link] |
-| **Walker Town Festival** | Security was overwhelmed, attendees breached the venue, and heavy rain caused technical failures. Organizers issued full refunds and a public apology. | [Add article link] |
-| **Raha Fest** (Dec 2024) | Crowd unrest forced a headline act to cut their set short. Security deployed tear gas, and organizers warned it might be their last event in Kenya. | [Add article link] |
+| Incident | What Happened |
+|---|---|
+| **Demo Concert Crush** (Dec 2025, Nyayo Stadium) | A crowd crush killed a 20-year-old attendee and injured others. A witness described chaos at the entrance, with no clear crowd direction. |
+| **Fake Tour Announcement** | An unauthorized Kenyan tour was announced for a major artist. The artist himself publicly warned fans it was fraudulent, sparking calls for verified event announcements. |
+| **Blankets & Wine Festival** | Attendees faced long queues, overcrowded spaces, and slow service. A formal complaint was filed with the Competition Authority over misleading marketing. |
+| **Walker Town Festival** | Security was overwhelmed, attendees breached the venue, and heavy rain caused technical failures. Organizers issued full refunds and a public apology. |
+| **Raha Fest** (Dec 2024) | Crowd unrest forced a headline act to cut their set short. Security deployed tear gas, and organizers warned it might be their last event in Kenya. |
+
+> **Source:** *The Standard* – "Concert Chaos: How Poor Planning and Rogue Promoters Are Undermining Kenya's Live Music Scene"  
+> https://www.standardmedia.co.ke/business/features/article/2001542950/concert-chaos-how-poor-planning-and-rogue-promoters-are-undermining-kenyas-live-music-scene
 
 ### 📊 The Root Causes
 
